@@ -46,7 +46,7 @@ class Authentication extends CI_Controller {
               
             );
             $this->session->set_userdata($newdata);
-            redirect(base_url()."dashboard"); 
+            redirect(base_url("dashboard")); 
         }
         else{
             $data = array('alert' => true);
