@@ -3,6 +3,7 @@
 application/config/config.php
 application/config/database.php
 application/libraries/mailer/mailer_config.php
+application/third_party/*
 
 application/cache/*
 !application/cache/index.html

@@ -10,8 +10,12 @@
 		"irc": "irc://irc.freenode.net/codeigniter",
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
+	"config": {
+       "vendor-dir": "application/third_party/"
+   	},
 	"require": {
-		"php": ">=5.2.4"
+		"php": ">=5.2.4",
+		"phpmailer/phpmailer": "^5.2"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
