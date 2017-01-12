@@ -20,7 +20,7 @@ class Authentication extends CI_Controller {
     public function index() {
     
         if($this->session->userdata('logged_in')) {
-            redirect(base_url()."dashboard");
+            redirect(base_url("dashboard"));
         }else {
             $data = array('alert' => false);
             $this->load->view('login',$data);
