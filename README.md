@@ -23,7 +23,7 @@ This application is using PHP Framework Codeigniter 3.1.3
 Rudi Liu | e-Portfolio: https://sites.google.com/site/rudiliucs1/ | Linkedin: https://id.linkedin.com/in/rudi-liu-18b81079
 
 ## Video Tutorial
-[![Video Tutorial](https://raw.githubusercontent.com/rudiliu/simple-login-CI/master/docs/screenshot/youtubecover.png)](https://youtu.be/h85rXvJVLxc "Video Tutorial")
+[![Video Tutorial](https://raw.githubusercontent.com/rudiliu/simple-login-CI/master/docs/screenshot/youtube-cover.png)](https://youtu.be/h85rXvJVLxc "Video Tutorial")
 
 
 
