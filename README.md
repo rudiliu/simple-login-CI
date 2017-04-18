@@ -5,7 +5,7 @@ This web application is an example for those who wants to learn how to do user l
 
 
 ## Application Configuration
-* clone this repository to your local server
+* clone / download this repository to your localhost
 * create new simple_login database
 * import the database. dumb database can be found in folder docs/database/simple_login_dump.sql
 * copy sample.database.php in application/config and rename it to datbase.php
@@ -21,6 +21,8 @@ This application is using PHP Framework Codeigniter 3.1.3
 
 ## Contributor
 Rudi Liu | e-Portfolio: https://sites.google.com/site/rudiliucs1/ | Linkedin: https://id.linkedin.com/in/rudi-liu-18b81079
+
+
 
 
 
