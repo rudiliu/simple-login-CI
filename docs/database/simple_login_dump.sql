@@ -40,7 +40,7 @@ CREATE TABLE activity_log (
   PRIMARY KEY (log_id),
   UNIQUE INDEX log_id (log_id),
   CONSTRAINT FK_activity_log_user_user_id FOREIGN KEY (fk_user_id)
-    REFERENCES koon_huat.user(user_id) ON DELETE RESTRICT ON UPDATE RESTRICT
+    REFERENCES user(user_id) ON DELETE RESTRICT ON UPDATE RESTRICT
 )
 ENGINE = INNODB
 AUTO_INCREMENT = 3
